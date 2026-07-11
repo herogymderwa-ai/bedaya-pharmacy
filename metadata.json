@@ -1,0 +1,6 @@
+{
+  "name": "Dose Label",
+  "description": "تطبيق احترافي وسريع لطباعة ملصقات جرعات الأدوية بمقاس 50mm × 23mm بدقة وبدون هوامش.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
